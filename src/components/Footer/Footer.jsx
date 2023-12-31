@@ -59,9 +59,9 @@ export default function Footer() {
         <SimpleGrid columns={{ base: 1, sm: 2, md: 4 }} spacing={8}>
           <Stack align={'flex-start'}>
             <ListHeader>Contact us</ListHeader>
-            <Text> Bahudin College, Moti Baug,
-              Junagadh-362001, Gujarat, India
-              E-mail address: query@pahervesh.com
+            <Text> Bahudin College, Moti Baug,<br />
+              Junagadh-362001, Gujarat, India,<br />
+              E-mail: query@pahervesh.com<br />
               © 2023-2024 Pahervesh.com</Text>
             {/* <Link href={'#'}>Blog</Link>
             <Link href={'#'}>Careers</Link>
@@ -84,7 +84,7 @@ export default function Footer() {
           </Stack>
 
           <Stack align={'flex-start'}>
-            <Text>Shop Non-Stop on Meesho
+            <Text>Shop Non-Stop on Pahervesh
               Trusted by more than 1 Crore Indians
               Cash on Delivery | Free Delivery</Text>
             {/* <AppStoreBadge />

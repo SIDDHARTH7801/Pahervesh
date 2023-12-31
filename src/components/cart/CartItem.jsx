@@ -92,7 +92,7 @@ const CartItem = (props) => {
         borderTop="1px solid #e1e1e1"
       >
         <Text fontSize={"16px"} fontWeight={"500"} color={"grey"}>
-          Supplier : Deepti Creations
+          Supplier : Archita Creations
         </Text>
         <Text fontSize={"16px"} fontWeight={"500"} color={"grey"}>
           Free Delivery

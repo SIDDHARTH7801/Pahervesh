@@ -94,8 +94,8 @@ const AddressFormBody = ({ name, mobile, house, road, pin, city, state, nearby, 
               <option value="">Select State</option>
               <option value="Rajasthan">Rajasthan</option>
               <option value="Madhya Pradesh">Madhya Pradesh</option>
-              <option value="Hariyana">Hariyana</option>
-              <option value="Chattisgarh">Chattisgarh</option>
+              <option value="Hariyana">Gujarat</option>
+              <option value="Chattisgarh">Mumbai</option>
             </Select>
           </FormControl>
         </Box>

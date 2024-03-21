@@ -164,18 +164,3 @@ To run this project, you will need to add the following environment variables to
 <br />
 
 
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Ashok_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-kumar-1778b213b)
-[![GitHub](https://img.shields.io/badge/Ashok_Kumar-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AshokPrjapati/)
-
-© 2023 Ashok Kumar
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!

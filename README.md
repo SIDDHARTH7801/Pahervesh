@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<h1 align="center">Pahervesh Clone</h1>
+<h1 align="center">Pahervesh</h1>
 
 <h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
 
